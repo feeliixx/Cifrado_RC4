@@ -75,11 +75,19 @@ public class CifradorRC4 {
     }
 }
 ```
+
+Trás la ejecución del programa , se nos generan dos nuevos archivos , uno de ellos con el contenido encriptado , y el otro con el contenido desencriptado
 ![Ejecución del Programa](src/imagenes/ejec.PNG)
+
+Este es el contenido del archivo original a encriptar
 
 ![Contenido del archivo a encriptar](src/imagenes/contenido_texto.PNG)
 
+Después de la encriptación , el archivo quedaría tal que así
+
 ![Contenido del archivo encriptado](src/imagenes/encriptado.PNG)
+
+Nuevamenete usamos el método cipherData para desencriptarlo , volviendo de nuevo a su estado inicial
 
 ![Contenido del archivo desencriptado](src/imagenes/desencriptado.PNG)
 
