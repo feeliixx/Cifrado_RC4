@@ -76,7 +76,7 @@ public class CifradorRC4 {
 }
 ```
 
-Trás la ejecución del programa , se nos generan dos nuevos archivos , uno de ellos con el contenido encriptado , y el otro con el contenido desencriptado
+Trás la ejecución del programa , se nos generan dos nuevos archivos
 ![Ejecución del Programa](src/imagenes/ejec.PNG)
 
 Este es el contenido del archivo original a encriptar
