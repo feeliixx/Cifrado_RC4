@@ -75,13 +75,13 @@ public class CifradorRC4 {
     }
 }
 ```
-![Ejecución del Programa](imagenes/src/ejec.png)
+![Ejecución del Programa](src/imagenes/ejec.png)
 
-![Contenido del archivo a encriptar](imagenes/src/contenido_texto.png)
+![Contenido del archivo a encriptar](src/imagenes/contenido_texto.png)
 
-![Contenido del archivo encriptado](imagenes/src/encriptado.png)
+![Contenido del archivo encriptado](src/imagenes/encriptado.png)
 
-![Contenido del archivo desencriptado](imagenes/src/desencriptado.png)
+![Contenido del archivo desencriptado](src/imagenes/desencriptado.png)
 
 ## Fuentes
 
